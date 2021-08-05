@@ -34,7 +34,7 @@ Reconocer de mejor manera cada etiqueta de Html | Trabajar ordenamente mi codigo
 1. Etiquetas de Css.......................12
 
 <H1>DOCUMENTACIÓN👾 </H1>
-https://amy1909.github.io/Glosario-Responsive-/
+
 
 <h1>OBJETIVOS FUTUROS👑</h1>
 
